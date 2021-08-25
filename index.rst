@@ -4,18 +4,8 @@
 
 .. sectnum::
 
-.. TODO: Delete the note below before merging new content to the master branch.
-
-.. note::
-
-   **This technote is not yet published.**
-
-   This note specifies the components and interfaces that the US, French, and UK Data Facilities will provide.  It also describes how those will be used in Operations.
-
 Introduction
 ============
-
-[TODO: Integrate more requirements from the SOW.]
 
 The Rubin Observatory Data Facilities have three major roles in the operation of the Data Management System: they store raw data, they perform data processing (in particular, the Data Release Production), and they serve as Data Access Centers.
 The US Data Facility (USDF) is constructed and operated by the project, while the French Data Facility (FrDF) and prospective UK Data Facility (UKDF) are constructed and operated by organizations in those countries.
